@@ -1,2 +1,3 @@
 # Applied Data Science Capstone - Clustering
-Applied Data Science Capstone - IBM, Coursera
+
+The objective of this project is to identify the best locations for opening a new shopping mall in Hyderabad, India. 
